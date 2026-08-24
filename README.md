@@ -4,7 +4,6 @@ An AI-powered B2B SaaS that turns a chaotic support inbox into a sorted, actiona
 
 ## Features
 
-Vibed tool
 
 - AI triage of support tickets: category, priority, sentiment, team routing, summary, and a suggested reply
 - Structured AI output via Anthropic tool use (validated JSON every time)
