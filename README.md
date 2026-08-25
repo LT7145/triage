@@ -1,6 +1,6 @@
 # Triage — AI Support Ticket Triage
 
-An AI-powered B2B SaaS that turns a chaotic support inbox into a sorted, actionable queue. Incoming tickets are automatically classified, prioritized, routed to the right team, scored for sentiment, and given a draft reply — powered by Claude.
+An AI-powered B2B SaaS that turns a chaotic support inbox into a sorted, actionable queue. Incoming tickets are automatically classified, prioritized, routed to the right team, scored for sentiment, and given a draft reply — powered by Claude - Vibed with Claude.
 
 ## Features
 
